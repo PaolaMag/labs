@@ -78,7 +78,7 @@ Adicionalmente, la aparición de series como "The Queen's Gambit" originó el in
 
 ### UTEC
 
-La popularidad del ajedrez ha llegado a la UTEC. Muchos alumnos han deseado inscribirse al club de ajedrez de la universidad. El presidente del club, Magnus Carlsen, empezó utilizando un Excel para guardar la lista de los integrantes del club. Sin embargo, al darse cuenta de la gran cantidad de nuevos miembros, ha decido optar por la creación de una base de datos para almacenar la información de los integrantes del club.
+La popularidad del ajedrez ha llegado a UTEC. Muchos alumnos han deseado inscribirse al club de ajedrez de la universidad. El presidente del club, Magnus Carlsen, empezó utilizando un Excel para guardar la lista de los integrantes del club. Sin embargo, al darse cuenta de la gran cantidad de nuevos miembros, ha decidido optar por la creación de una base de datos para almacenar la información de los integrantes del club.
 
 La información que desea almacenar de cada integrante es la siguiente:
 
@@ -89,7 +89,7 @@ La información que desea almacenar de cada integrante es la siguiente:
 
 Ayúdelo a crear dicha base de datos.
 
-- Cree la tabla `jugador` con las columnas indicadas anteriormente (tomando en cuenta los tipos de dato para cada columna, y asegurese si los datos son obligatorios o no).
+- Cree la tabla `jugador` con las columnas indicadas anteriormente (tomando en cuenta los tipos de dato para cada columna, y asegúrese si los datos son obligatorios o no).
 - Usa una columna `id` como llave primaria, esta debe incrementarse con cada inserción.
 - Inserta en la tabla tus datos y los de tus compañeros.
 - Genera un query que te permita seleccionar a todos los jugadores que cuenten con un Ranking FIDE mayor a >1500.
